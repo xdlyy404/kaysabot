@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6285921969852@s.whatsapp.net",
+    "ownerName": "Fadly ID",
+    "botName": "Kaysa Bot",
+    "footer": "Fadly ID",
+    "sessionName": "kayy-md",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "Atakbotz",
+    "instagram": "https://instagram.com/iamfadlyid_",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "sticker": {
+        "packname": "Created By",
+        "author": "Fadly ID"
+    }
+}
