@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/91e1c3af213527b277eb8.jpg" alt="Kaysa Bot" width="128" height="128"/>
+<img src="https://telegra.ph/file/a09fc96471419e3b4baba.jpg" alt="Kaysa Bot" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Kaysa Bot" src="https://img.shields.io/badge/Kaysa Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -99,7 +99,7 @@ webpmux -version
 - [Saweria](https://saweria.co/fadlyid)
 
 # Feature Test
-- [X-NoneBot-MD](https://wa.me/6283847262479)
+- [Kaysa Bot](https://wa.me/6283847262479)
 
 # Bug Report
 - [Developer](https://wa.me/6285921969852)
